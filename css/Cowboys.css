@@ -29,19 +29,13 @@
 	border-radius: 50%;
 	margin: 20px;
 	display: inline-block;
-	background:#003594;
-	box-shadow: 0px 4.66667px 48px 3px #003594;
 	-webkit-animation-name: flash-1;
 	animation-name: flash-1;
 	-webkit-animation-duration: 1.7s;
 	animation-duration: 1.7s;
 }
 
-
-
 .strand li:nth-child(2n+1) {
-	background: #a8a7ae;
-	box-shadow: 0px 4.66667px 48px 3px #a8a7ae;
 	-webkit-animation-name: flash-2;
 	animation-name: flash-2;
 	-webkit-animation-duration: 2s;
@@ -49,8 +43,6 @@
 }
 
 .strand li:nth-child(3n+2){
-	background: #ffff00;
-	box-shadow: 0px 4.66667px 48px 3px #ffff00;
 	-webkit-animation-name: flash-3;
 	animation-name: flash-3;
 	-webkit-animation-duration: 1.4s;

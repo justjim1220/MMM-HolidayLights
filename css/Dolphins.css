@@ -29,8 +29,6 @@
 	border-radius: 50%;
 	margin: 20px;
 	display: inline-block;
-	background:#009488;
-	box-shadow: 0px 4.66667px 48px 3px #009488;
 	-webkit-animation-name: flash-1;
 	animation-name: flash-1;
 	-webkit-animation-duration: 1.7s;
@@ -40,8 +38,6 @@
 
 
 .strand li:nth-child(2n+1) {
-	background: #ff6700;
-	box-shadow: 0px 4.66667px 48px 3px #ff6700;
 	-webkit-animation-name: flash-2;
 	animation-name: flash-2;
 	-webkit-animation-duration: 2s;
@@ -49,8 +45,6 @@
 }
 
 .strand li:nth-child(3n+2){
-	background: #ffffff;
-	box-shadow: 0px 4.66667px 48px 3px #ffffff;
 	-webkit-animation-name: flash-3;
 	animation-name: flash-3;
 	-webkit-animation-duration: 1.4s;

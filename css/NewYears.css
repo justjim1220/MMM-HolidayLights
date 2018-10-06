@@ -29,8 +29,6 @@
 	border-radius: 50%;
 	margin: 20px;
 	display: inline-block;
-	background:#bcc6cc;
-	box-shadow: 0px 4.66667px 48px 3px #bcc6cc;
 	-webkit-animation-name: flash-1;
 	animation-name: flash-1;
 	-webkit-animation-duration: 1.4s;
@@ -38,8 +36,6 @@
 }
 
 .strand li:nth-child(2n+1) {
-	background: #d4af37;
-	box-shadow: 0px 4.66667px 48px 3px #d4af37;
 	-webkit-animation-name: flash-2;
 	animation-name: flash-2;
 	-webkit-animation-duration: 0.8s;
@@ -47,8 +43,6 @@
 }
 
 .strand li:nth-child(3n+2) {
-	background: #a8a7ae;
-	box-shadow: 0px 4.66667px 48px 3px #a8a7ae;
 	-webkit-animation-name: flash-3;
 	animation-name: flash-3;
 	-webkit-animation-duration: 1.1s;
@@ -56,8 +50,6 @@
 }
 
 .strand li:nth-child(4n+3) {
-	background: #ffd700;
-	box-shadow: 0px 4.66667px 48px 3px #ffd700;
 	-webkit-animation-name: flash-4;
 	animation-name: flash-4;
 	-webkit-animation-duration: 1.7s;
@@ -65,8 +57,6 @@
 }
 
 .strand li:nth-child(5n+4) {
-	background: #6a696f;
-	box-shadow: 0px 4.66667px 48px 3px #6a696f;
 	-webkit-animation-name: flash-5;
 	animation-name: flash-5;
 	-webkit-animation-duration: 2s;
@@ -74,8 +64,6 @@
 }
 
 .strand li:nth-child(6n+5) {
-	background: #ffbf00;
-	box-shadow: 0px 4.66667px 48px 3px #ffbf00;
 	-webkit-animation-name: flash-6;
 	animation-name: flash-6;
 	-webkit-animation-duration: 2.3s;
