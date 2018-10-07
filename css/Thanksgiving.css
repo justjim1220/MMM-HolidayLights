@@ -169,7 +169,7 @@
     }
     50%{
         background: rgba(66, 0, 0, 0.5);
-        box-shadow: 0px 4.66667px 48px 3px (66, 0, 0, 0.5);
+        box-shadow: 0px 4.66667px 48px 3px rgba(66, 0, 0, 0.5);
     }
 }
     
@@ -179,8 +179,8 @@
         box-shadow: 0px 4.66667px 48px 3px #660000;
     }
     50% {
-        background: (66, 0, 0, 0.5);
-        box-shadow: 0px 4.66667px 48px 3px (66, 0, 0, 0.5);
+        background: rgba(66, 0, 0, 0.5);
+        box-shadow: 0px 4.66667px 48px 3px rgba(66, 0, 0, 0.5);
     }
 }
 
