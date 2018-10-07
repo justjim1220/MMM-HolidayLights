@@ -14,6 +14,7 @@ Clone to you MM2 modules directory, No install needed
 		position: 'fullscreen_above',
 		config: {
 			css: "", //See ReadMe for choices available
+		}
 	},
 
 ## Options
