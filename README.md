@@ -19,7 +19,9 @@ Clone to you MM2 modules directory, No install needed
 
 ## Options
 
-Insert the name of the css file you want to use. **Just the Name, not the extension.**
+Insert the name of the css file you want to use. 
+
+**Just the Name, not the extension.**
 **IE: Use Christmas, NOT Christmas.css**
 
 See the CSS folder for names available
