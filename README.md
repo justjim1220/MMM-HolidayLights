@@ -5,7 +5,7 @@ Holiday Lights for MM. Base Module: MMM-Xmas by cowboysdude
   
 Clone to you MM2 modules directory, No install needed
 
-	git clone https://github.com/justjim/MMM-HolidayLights.git
+	git clone https://github.com/justjim1220/MMM-HolidayLights.git
      
 # Config Entry
 
